@@ -1,0 +1,5 @@
+- name: Instalation packages
+  apt:
+    name:
+      - htop
+      - python3-pip
